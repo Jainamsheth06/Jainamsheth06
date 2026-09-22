@@ -1,71 +1,64 @@
-<!-- 🔥 NAME -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Jainam+Sheth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Jainam+Sheth" alt="Jainam Sheth" />
 </p>
 
-<!-- ✨ TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=aaaaaa&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=aaaaaa&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Scalable+Systems" alt="Tagline" />
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
----
+## 👨🏻‍💻 About Me
+I am a dedicated **Python Full Stack Developer** and **Django Backend Specialist** with a strong focus on building scalable, real-world applications. I specialize in designing robust backend systems and translating complex business requirements into efficient, maintainable code.
 
-## 🧠 About Me
-- 💻 Python Full Stack Developer  
-- 🧩 Django Backend Specialist  
-   
-- 📈 Focused on real-world project development & backend systems  
-- ⚙️ Continuously improving system design & logic building  
+- 🏗️ Focused on robust backend architectures and seamless RESTful API integrations.
+- ⚙️ Passionate about system design, logic building, and database optimization.
+- 🚀 Continuously exploring modern technologies to deliver high-performance solutions.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,react,mysql,sqlite,git,github" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,js,html,css,react,mysql,sqlite,git,github" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projects
+## 💼 Featured Projects
 
-### 🏥 DoctorFinder
-- Doctor listing system  
-- Search & filtering features  
-- Backend API structure  
+### 🏥 Hospital Management System
+**🌐 Live Demo:** [jainamsheth06.pythonanywhere.com](https://jainamsheth06.pythonanywhere.com)
 
-### ⚙️ Backend Systems
-- Django-based core logic projects  
-- Authentication systems  
-- API development practice  
+A comprehensive web application designed to streamline healthcare management operations.
+- **Features:** Automated doctor listing, advanced patient search, and intuitive filtering.
+- **Architecture:** Engineered a robust Django backend API with a secure, integrated MySQL database for reliable data management.
+
+### ⚙️ Backend Infrastructure & API Development
+Various projects focused on core backend logic, security, and scalability.
+- **Key Implementations:** Secure authentication/authorization systems, data models, and best-practice RESTful API development.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jainam06sheth&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainam06sheth&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jainamsheth06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainamsheth06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Let's Connect
 <p align="center">
-
-<a href="https://www.instagram.com/techstoriespositively">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jainam-sheth-2006a0201jms">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/jainam-sheth-2106-jmsheth" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Developer Mindset
 <p align="center">
-  <b>Clean Code • Scalable Systems • Real-World Projects • Continuous Learning</b>
+  <i><b>Clean Code • Scalable Architecture • Continuous Learning</b></i>
 </p>
