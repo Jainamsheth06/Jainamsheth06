@@ -30,7 +30,7 @@ I am a dedicated **Python Full Stack Developer** and **Django Backend Specialist
 ## 💼 Featured Projects
 
 ### 🏥 Hospital Management System
-**🌐 Live Demo:** MediNEXA.pythonanywhere.com
+**🌐 Live Demo:** [MediNEXA](https://MediNEXA.pythonanywhere.com)
 
 A comprehensive web application designed to streamline healthcare management operations.
 - **Features:** Automated doctor listing, advanced patient search, and intuitive filtering.
