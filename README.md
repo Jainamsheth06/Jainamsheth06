@@ -10,7 +10,7 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 👨🏻‍💻 About Me
-I am a dedicated **Python Full Stack Developer** and **Django Backend Specialist** with a strong focus on building scalable, real-world applications. I specialize in designing robust backend systems and translating complex business requirements into efficient, maintainable code.
+I am a student of **BSc (CS-IT)**. Alongside my studies, I am a dedicated **Python Full Stack Developer** and **Django Backend Specialist** with a strong focus on building scalable, real-world applications. I specialize in designing robust backend systems and translating complex business requirements into efficient, maintainable code.
 
 - 🏗️ Focused on robust backend architectures and seamless RESTful API integrations.
 - ⚙️ Passionate about system design, logic building, and database optimization.
@@ -42,7 +42,7 @@ Various projects focused on core backend logic, security, and scalability.
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jainamsheth06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainamsheth06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
