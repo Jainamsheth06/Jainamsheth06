@@ -1,9 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hello%2C+it's+Jainam+Sheth;Passionate+Python+Backend+Developer;Django+Specialist;Making+Real-World+Projects&cursor=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+I'm+Jainam+Sheth&cursor=false)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Python+Backend+Developer;Django+Specialist;Making+Real-World+Projects&cursor=false)](https://git.io/typing-svg)
 
 </div>
----
 
 ## 👨‍💻 About Me
 
@@ -22,7 +23,6 @@ and modern development tools** while continuously improving my skills.
 - 💻 Git & GitHub
 - 📍 Ahmedabad, Gujarat, India
 
----
 
 ## 🛠️ Tech Stack
 
