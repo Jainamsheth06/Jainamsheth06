@@ -102,7 +102,7 @@ building projects to gain real-world experience.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jainam06sheth&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Jainamsheth06&theme=tokyonight&hide_border=true">
 
 </div>
 
