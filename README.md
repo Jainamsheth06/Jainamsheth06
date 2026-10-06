@@ -1,16 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Jainam Sheth
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=+Hello%2C+I'm+Jainam+Sheth)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=🐍+Python+Backend+Developer;⚡+Django+Developer;🔗+REST+API+Builder;🚀+Building+Things+With+Code&cursor=false)](https://git.io/typing-svg)
-
-<img src="./assets/profile-preview.png" width="220" alt="Jainam Sheth">
-
-<br><br>
-
-<a href="https://github.com/Jainamsheth06">
-  <img src="https://img.shields.io/badge/GitHub-Jainamsheth06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=🐍+Python+Backend+Developer+%7C+Django+Developer)](https://git.io/typing-svg)
 
 </div>
 
