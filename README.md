@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Jainam Sheth
 
-### 🐍 Python Backend Developer | Django Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🐍+Python+Backend+Developer;⚡+Django+Developer;🔗+REST+API+Builder;🚀+Building+Things+With+Code)](https://git.io/typing-svg)
+
 
 <img src="./assets/profile-preview.png" width="220" alt="Jainam Sheth">
 
