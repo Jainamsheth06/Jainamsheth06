@@ -2,8 +2,6 @@
 
 <img src="./assets/hello-jainam.gif" width="850" alt="Hello I'm Jainam Sheth - typing animation">
 
-<img src="./assets/hello-jainam-education.gif" width="850" alt="I'm BSC-CS-IT Student. typing animation">
-
 <img src="./assets/jainam-roles.gif" width="900" alt="Python Backend Developer, Django Specialist, Making Real-World Projects - typing animation">
 
 <p>
