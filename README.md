@@ -1,11 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=+Hello%2C+I'm+Jainam+Sheth)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=🐍+Python+Backend+Developer+%7C+Django+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hello%2C+it's+Jainam+Sheth;Passionate+Python+Backend+Developer;Django+Specialist;Making+Real-World+Projects&cursor=false)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
