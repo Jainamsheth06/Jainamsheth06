@@ -139,7 +139,6 @@ and problem-solving skills by building and refining projects.
 - 💼 Work on meaningful **real-world software projects**
 - 📚 Keep learning, building, and improving
 
----
 
 ## 📈 My Development Mindset
 
@@ -149,8 +148,6 @@ and problem-solving skills by building and refining projects.
 
 </div>
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -159,12 +156,17 @@ and problem-solving skills by building and refining projects.
   <img src="https://img.shields.io/badge/GitHub-Jainamsheth06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<a href="https://www.linkedin.com/in/jainam-sheth-2106-jmsheth">
+  <img src="https://img.shields.io/badge/LinkedIn-Jainam%20Sheth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/elevationpositively">
+  <img src="https://img.shields.io/badge/Instagram-elevationpositively-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
 </div>
 
-> 💬 **Open to learning, collaboration, and building useful projects.**
-
----
-
+> 💬 **Open For Learning, Collaboration And Building Useful Projects.**
 <div align="center">
 
 ### 💡 Learning. Building. Improving. 🚀
